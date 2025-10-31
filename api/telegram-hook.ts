@@ -59,12 +59,22 @@ export async function sendImageCommand(ctx) {
     {
       type: "photo",
       media:
-        "https://raw.githubusercontent.com/emerur/limitless/main/photo_6028285951022843801_y.jpg",
+        "https://raw.githubusercontent.com/zenayorcloud/sonic/main/WhatsApp%20Image%202025-10-31%20at%2021.24.32_665fe675.jpg",
     },
     {
       type: "photo",
       media:
-        "https://raw.githubusercontent.com/emerur/limitless/main/photo_6030537750836529162_y.jpg",
+        "https://raw.githubusercontent.com/zenayorcloud/sonic/main/WhatsApp%20Image%202025-10-31%20at%2021.24.32_726e11b4.jpg",
+    },
+    {
+      type: "photo",
+      media:
+        "https://raw.githubusercontent.com/zenayorcloud/sonic/main/WhatsApp%20Image%202025-10-31%20at%2021.24.32_79d680c3.jpg",
+    },
+    {
+      type: "photo",
+      media:
+        "https://raw.githubusercontent.com/zenayorcloud/sonic/main/WhatsApp%20Image%202025-10-31%20at%2021.24.32_822d84d1.jpg",
     },
     
   ];
