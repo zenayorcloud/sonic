@@ -12,7 +12,7 @@ const bot = new Telegraf(BOT_TOKEN);
 // start handler
 export async function handleStartCommand(ctx) {
   const COMMAND = "/start";
-  const channelUrl = "t.me/free_proxies_hubb";
+  const channelUrl = "t.me/cleantower";
   const targetUrl = "t.me/+Lr_K2PCD_U5mZDhh";
 
   // Welcome message with Markdown formatting
